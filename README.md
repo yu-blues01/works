@@ -1,2 +1,2 @@
 # works
-This repository contains my work created by the code (mainly python).
+This repository contains my works created by the code (mainly python).
