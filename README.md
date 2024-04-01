@@ -59,7 +59,7 @@ OpenCVを用いて作成した、画像加工システム(顔認識と絵文字�
 Image editing system by OpenCV(image resizing, face recognition & hiding)
 
 
-プログラムはこちらのgithubレポジトリ(https://github.com/yu-blues01/PictureEditSystem)からダウンロード可能です
+プログラムはこちらのgithubレポジトリ(https://github.com/yu-blues01/PictureEditSystem )からダウンロード可能です
 
 
-The program can be downloaded from the following github repository
+The program can be downloaded from the following github repository(https://github.com/yu-blues01/PictureEditSystem )
