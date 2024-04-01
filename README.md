@@ -49,3 +49,17 @@ Unityで作成した、初音ミクVRMモデルがダンス(サラマンダー)�
 
 
 Unity application to watch Hatsune Miku VRM model dance in Music Video
+
+
+# Works not in this repository
+## PictureEditSystem
+OpenCVを用いて作成した、画像加工システム(顔認識と絵文字による顔隠し、ウォーターマーク挿入、リサイズ加工)です
+
+
+Image editing system by OpenCV(image resizing, face recognition & hiding)
+
+
+プログラムはこちらのgithubレポジトリ(https://github.com/yu-blues01/PictureEditSystem)からダウンロード可能です
+
+
+The program can be downloaded from the following github repository
