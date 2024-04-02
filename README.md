@@ -14,6 +14,7 @@ When viewing my work, please first read the "readme.txt" included in the zip.
 
 ## CRS_original.zip 
 Unityで作成した、VRMモデルがダンス(CandyRockStar)を踊る様子を眺めることができるアプリケーションです
+
 動作確認環境：macOS
 
 
@@ -28,6 +29,7 @@ A file describing the repository and its contents.
 
 ## golf_game.zip
 pygameで作成した簡単な3Dゴルフゲームです
+
 動作確認環境：Windows
 
 
@@ -35,6 +37,7 @@ golf game made by pygame
 
 ## jump_game.zip
 pyxelで作成した簡単なジャンプゲームです
+
 動作確認環境：Windows
 
 
@@ -42,6 +45,7 @@ symple jump game made by pyxel
 
 ## maze_game.zip
 pygameで作成した簡単な3Dゴルフゲームです
+
 動作確認環境：Windows
 
 
@@ -49,6 +53,7 @@ simple maze game made by pygame
 
 ## salamander.zip
 Unityで作成した、初音ミクVRMモデルがダンス(サラマンダー)を踊る様子を眺めることができるアプリケーションです
+
 動作確認環境：macOS
 
 
@@ -58,6 +63,7 @@ Unity application to watch Hatsune Miku VRM model dance in Music Video
 # Works not in this repository
 ## PictureEditSystem
 OpenCVを用いて作成した、画像加工システム(顔認識と絵文字による顔隠し、ウォーターマーク挿入、リサイズ加工)です
+
 動作確認環境：Windows
 
 
