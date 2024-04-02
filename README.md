@@ -20,12 +20,15 @@ Unityで作成した、VRMモデルがダンス(CandyRockStar)を踊る様子を
 
 Unity application to watch VRM model's dance
 
+System Requirements：macOS
+
 ## README.md
 レポジトリの説明やコンテンツの説明をしているファイルです
 
 
 A file describing the repository and its contents.
 
+System Requirements：Windows
 
 ## golf_game.zip
 pygameで作成した簡単な3Dゴルフゲームです
@@ -35,6 +38,8 @@ pygameで作成した簡単な3Dゴルフゲームです
 
 golf game made by pygame
 
+System Requirements：Windows
+
 ## jump_game.zip
 pyxelで作成した簡単なジャンプゲームです
 
@@ -42,6 +47,8 @@ pyxelで作成した簡単なジャンプゲームです
 
 
 symple jump game made by pyxel
+
+System Requirements：Windows
 
 ## maze_game.zip
 pygameで作成した簡単な3Dゴルフゲームです
@@ -51,6 +58,8 @@ pygameで作成した簡単な3Dゴルフゲームです
 
 simple maze game made by pygame
 
+System Requirements：Windows
+
 ## salamander.zip
 Unityで作成した、初音ミクVRMモデルがダンス(サラマンダー)を踊る様子を眺めることができるアプリケーションです
 
@@ -59,6 +68,7 @@ Unityで作成した、初音ミクVRMモデルがダンス(サラマンダー)�
 
 Unity application to watch Hatsune Miku VRM model dance in Music Video
 
+System Requirements：macOS
 
 # Works not in this repository
 ## PictureEditSystem
@@ -68,6 +78,8 @@ OpenCVを用いて作成した、画像加工システム(顔認識と絵文字�
 
 
 Image editing system by OpenCV(image resizing, face recognition & hiding)
+
+System Requirements：Windows
 
 
 プログラムはこちらのgithubレポジトリ(https://github.com/yu-blues01/PictureEditSystem )からダウンロード可能です
